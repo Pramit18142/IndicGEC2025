@@ -16,12 +16,15 @@ This is part of the Shared Task co-located with 1st BHASHA workshop 2025.
 
 The urls for the competitions are:
 
-[Hindi] (https://www.codabench.org/competitions/10473/?secret_key=1eb6b6b4-bdcb-4d26-8d63-2cb826d7af9e)
-[Malayalam] (https://www.codabench.org/competitions/10475/?secret_key=151c0997-3c00-4068-b351-b8cf0bf03052)
-[Telugu] (https://www.codabench.org/competitions/10477/?secret_key=2aeb9352-6f6f-4642-8c61-182c16d59a39)
-[Bangla] (https://www.codabench.org/competitions/10482/?secret_key=f4ee606f-a9cb-4092-ad1c-f3cc82d5f5c5)
+1. [Hindi](https://www.codabench.org/competitions/10473/?secret_key=1eb6b6b4-bdcb-4d26-8d63-2cb826d7af9e)
 
-#Rules for participation:
+2. [Malayalam](https://www.codabench.org/competitions/10475/?secret_key=151c0997-3c00-4068-b351-b8cf0bf03052)
+
+3. [Telugu](https://www.codabench.org/competitions/10477/?secret_key=2aeb9352-6f6f-4642-8c61-182c16d59a39)
+
+4. [Bangla](https://www.codabench.org/competitions/10482/?secret_key=f4ee606f-a9cb-4092-ad1c-f3cc82d5f5c5)
+
+##Rules for participation:
 
 1. Max Team Size: **4**
 2. An individual cannot be part of multiple teams.
@@ -29,7 +32,7 @@ The urls for the competitions are:
 4. CodaBench account is required for participation.
 5. Google Form for registration of teams: https://forms.gle/gftDLz69Vv9aB3AEA.
 
-#Evaluation Criteria**
+##Evaluation Criteria
 
 **GLEU score** will be used for evaluation
 
