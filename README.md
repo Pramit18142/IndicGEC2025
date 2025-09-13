@@ -11,6 +11,9 @@ The languages available are:
 2. **Telugu**
 3. **Bangla** 
 4. **Malayalam**
+5. **Tamil**
+
+Tamil GEC is under extreme low-resource setting with less than 100 training samples.
 
 This is part of the Shared Task co-located with 1st BHASHA workshop 2025.
 
@@ -24,7 +27,9 @@ The urls for the competitions are:
 
 4. [Bangla](https://www.codabench.org/competitions/10482/?secret_key=f4ee606f-a9cb-4092-ad1c-f3cc82d5f5c5)
 
-## Rules for participation:
+5. [Tamil](https://www.codabench.org/competitions/10485/?secret_key=f4a4dd0d-d959-468c-92ca-60904bbc7c45)
+
+## Rules for participation
 
 1. Max Team Size: **4**
 2. An individual cannot be part of multiple teams.
