@@ -24,7 +24,7 @@ The urls for the competitions are:
 
 4. [Bangla](https://www.codabench.org/competitions/10482/?secret_key=f4ee606f-a9cb-4092-ad1c-f3cc82d5f5c5)
 
-##Rules for participation:
+## Rules for participation:
 
 1. Max Team Size: **4**
 2. An individual cannot be part of multiple teams.
@@ -32,7 +32,7 @@ The urls for the competitions are:
 4. CodaBench account is required for participation.
 5. Google Form for registration of teams: https://forms.gle/gftDLz69Vv9aB3AEA.
 
-##Evaluation Criteria
+## Evaluation Criteria
 
 **GLEU score** will be used for evaluation
 
