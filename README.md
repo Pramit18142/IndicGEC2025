@@ -27,7 +27,7 @@ The urls for the competitions are:
 
 4. [Bangla](https://www.codabench.org/competitions/10482/?secret_key=f4ee606f-a9cb-4092-ad1c-f3cc82d5f5c5)
 
-5. [Tamil](https://www.codabench.org/competitions/10485/?secret_key=f4a4dd0d-d959-468c-92ca-60904bbc7c45)
+5. [Tamil](https://www.codabench.org/competitions/10486/?secret_key=e24a9d08-d78c-4bb4-b487-20c9ed012173)
 
 ## Rules for participation
 
