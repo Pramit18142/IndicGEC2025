@@ -23,7 +23,7 @@ The urls for the competitions are:
 
 2. [Malayalam](https://www.codabench.org/competitions/10475/?secret_key=151c0997-3c00-4068-b351-b8cf0bf03052)
 
-3. [Telugu](https://www.codabench.org/competitions/10477/?secret_key=2aeb9352-6f6f-4642-8c61-182c16d59a39)
+3. [Telugu](https://www.codabench.org/competitions/10675/?secret_key=97557fab-4caa-4297-8344-ae0b8904b1b8)
 
 4. [Bangla](https://www.codabench.org/competitions/10482/?secret_key=f4ee606f-a9cb-4092-ad1c-f3cc82d5f5c5)
 
