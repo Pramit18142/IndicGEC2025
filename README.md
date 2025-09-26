@@ -47,5 +47,7 @@ Submissions that do not conform to this requirements will not be evaluated by th
 
 All participating teams are expected to submit a system paper describing methodologies adopted and findings.
 
+P.S:- All characters which are not in **native script** will be counted as **incorrect**.
+
 
 
