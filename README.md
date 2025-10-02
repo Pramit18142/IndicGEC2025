@@ -19,7 +19,7 @@ This is part of the Shared Task co-located with 1st BHASHA workshop 2025.
 
 The urls for the competitions are:
 
-1. [Hindi](https://www.codabench.org/competitions/10473/?secret_key=1eb6b6b4-bdcb-4d26-8d63-2cb826d7af9e)
+1. [Hindi](https://www.codabench.org/competitions/10840/?secret_key=c30c3264-632c-45a6-957e-81ade9c0e198)
 
 2. [Malayalam](https://www.codabench.org/competitions/10475/?secret_key=151c0997-3c00-4068-b351-b8cf0bf03052)
 
@@ -27,7 +27,7 @@ The urls for the competitions are:
 
 4. [Bangla](https://www.codabench.org/competitions/10482/?secret_key=f4ee606f-a9cb-4092-ad1c-f3cc82d5f5c5)
 
-5. [Tamil](https://www.codabench.org/competitions/10486/?secret_key=e24a9d08-d78c-4bb4-b487-20c9ed012173)
+5. [Tamil](https://www.codabench.org/competitions/10838/?secret_key=74681fea-4907-46b3-8502-69835f97e4e1)
 
 ## Rules for participation
 
