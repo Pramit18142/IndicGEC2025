@@ -21,13 +21,13 @@ The urls for the competitions for final phase are:
 
 1. [Hindi](https://www.codabench.org/competitions/10927/?secret_key=f65c4502-df61-4f26-b959-86d63d72cbe3)
 
-2. [Malayalam](https://www.codabench.org/competitions/10475/?secret_key=151c0997-3c00-4068-b351-b8cf0bf03052)
+2. [Malayalam](https://www.codabench.org/competitions/10941/?secret_key=b09e982e-9aa2-47b1-b4c7-ab85ac08ae8d)
 
-3. [Telugu](https://www.codabench.org/competitions/10675/?secret_key=97557fab-4caa-4297-8344-ae0b8904b1b8)
+3. [Telugu](https://www.codabench.org/competitions/10942/?secret_key=87b473ac-c2e1-473f-abc1-8e556f4c6b38)
 
-4. [Bangla](https://www.codabench.org/competitions/10482/?secret_key=f4ee606f-a9cb-4092-ad1c-f3cc82d5f5c5)
+4. [Bangla](https://www.codabench.org/competitions/10937/?secret_key=cb10e8e7-b16b-45b2-9bc0-2a8da4769881)
 
-5. [Tamil](https://www.codabench.org/competitions/10838/?secret_key=74681fea-4907-46b3-8502-69835f97e4e1)
+5. [Tamil](https://www.codabench.org/competitions/10938/?secret_key=fda54ec5-1fd9-45f8-94b7-e404b4762bc9)
 
 ## Rules for participation
 
