@@ -17,9 +17,9 @@ Tamil GEC is under extreme low-resource setting with less than 100 training samp
 
 This is part of the Shared Task co-located with 1st BHASHA workshop 2025.
 
-The urls for the competitions are:
+The urls for the competitions for final phase are:
 
-1. [Hindi](https://www.codabench.org/competitions/10840/?secret_key=c30c3264-632c-45a6-957e-81ade9c0e198)
+1. [Hindi](https://www.codabench.org/competitions/10927/?secret_key=f65c4502-df61-4f26-b959-86d63d72cbe3)
 
 2. [Malayalam](https://www.codabench.org/competitions/10475/?secret_key=151c0997-3c00-4068-b351-b8cf0bf03052)
 
